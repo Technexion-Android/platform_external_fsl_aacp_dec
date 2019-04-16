@@ -1,0 +1,13 @@
+NXP Software Content Register
+
+Package:                   fsl_aacp_dec.tar.gz
+Outgoing License:          LA_OPT_NXP_Software_License v3 November 2018 - Production Use - Section 2.3 applies
+License Files:             EULA.txt: LA_OPT_NXP_Software_License v3 November 2018 - Production Use - Section 2.3 applies
+Package Category:          Multimedia
+Type of content:           Binaries
+Description and comments:  Dolby/Coding Technologies AACP codec
+Release Location:          Moderated download
+Origin:                    NXP (proprietary)
+                           Freescale Semiconductor, Inc (Proprietary)
+                           Dolby Laboratories/Coding Technologies (proprietary)
+                           ARM Limited (proprietary)
